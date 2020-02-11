@@ -34,6 +34,7 @@
   ],
   "author": "Vladimir Kharlampidi",
   "license": "MIT",
+  "main": "package/js/swiper.min.js",
   "bugs": {
     "url": "https://github.com/nolimits4web/Swiper/issues"
   },

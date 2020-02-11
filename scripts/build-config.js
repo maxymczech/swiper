@@ -1,5 +1,6 @@
 module.exports = {
   components: [
+    'lazy',
     'mousewheel',
     'navigation',
     'pagination',
@@ -9,7 +10,6 @@ module.exports = {
     'scrollbar',
     'parallax',
     'zoom',
-    'lazy',
     'controller',
     'a11y',
     'history',
