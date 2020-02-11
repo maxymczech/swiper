@@ -1,10 +1,11 @@
 module.exports = {
   components: [
-    'virtual',
-    'keyboard',
     'mousewheel',
     'navigation',
     'pagination',
+/*
+    'virtual',
+    'keyboard',
     'scrollbar',
     'parallax',
     'zoom',
@@ -19,6 +20,7 @@ module.exports = {
     'effect-flip',
     'effect-coverflow',
     'thumbs',
+*/
   ],
   themeColor: '#007aff',
   colors: {
